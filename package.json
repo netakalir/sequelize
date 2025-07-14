@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node -w app"
+    "start": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
